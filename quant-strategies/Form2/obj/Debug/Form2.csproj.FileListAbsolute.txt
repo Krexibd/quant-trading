@@ -1,0 +1,2 @@
+D:\GithubNew\17\quant-trading\quant\1\quant-strategies\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\GithubNew\17\quant-trading\quant\1\quant-strategies\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
